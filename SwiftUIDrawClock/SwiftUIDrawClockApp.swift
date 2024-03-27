@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftUIDrawClockApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView(hourRadians: 0.0, minuteRadians: 0.0, secondsRadians: 0.0, hour: 0, minute: 0, second: 0)
+            ContentView(hourRadians: 0.0, minuteRadians: 0.0, secondsRadians: 0.0, hour: 9, minute: 0, second: 0)
         }
     }
 }
